@@ -3,6 +3,7 @@ A simple script to replace the default Budgie menu icon with an icon of your cho
 
 # Usage
 `budgie-menu-change-icon <path to new icon>`
+
 The script will automatically backup the current icon.
 
 # Changing manually
